@@ -20,4 +20,4 @@ Once Anaconda is installed on your machine, open an application called Anaconda-
 - [Python pandas documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [A list of python pandas tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
 - [scikit-learn tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
-
+- [How to Handle Imbalanced Classes in Machine Learning: Down-sample Majority Class](https://elitedatascience.com/imbalanced-classes)
