@@ -16,7 +16,7 @@ In your terminal, navigate to your homework folder and run `jupyter notebook .` 
 Once Anaconda is installed on your machine, open an application called Anaconda-Navigator. On the main page, click the 'launch' button on the Jupyter Notebook tile. A notebook session should open up in your browser.
 
 # Jupyter Notebooks
-If you haven't used Jupyter Notebooks before, a good first step for you would be to read the [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) and take the User Interface Tour in the Help menu.
+If you haven't used Jupyter Notebooks before, a good first step for you would be to read the [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) and take the User Interface Tour in the Jupyter notebook Help menu once you've opened your first Jupyter Notebook.
 
 On a Mac, you can run a Jupyter notebook from Terminal by typing `jupyter notebook name_of_file_here.ipynb`. On Windows, you will do [something similar](https://pythonforundergradengineers.com/opening-a-jupyter-notebook-on-windows.html) but by running the 'Anaconda Prompt' that comes with the Anaconda distribution.
 
@@ -28,3 +28,8 @@ On a Mac, you can run a Jupyter notebook from Terminal by typing `jupyter notebo
 - [A list of python pandas tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
 - [scikit-learn tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 - [How to Handle Imbalanced Classes in Machine Learning: Down-sample Majority Class](https://elitedatascience.com/imbalanced-classes)
+- scikit-learn models (many more in the [User Guide](https://scikit-learn.org/stable/user_guide.html#user-guide):
+	- [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html?highlight=logistic%20regression#sklearn.linear_model.LogisticRegression)
+	- [Gaussian Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
+	- [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html#svm)
+	- [Decision Trees](https://scikit-learn.org/stable/modules/tree.html#tree)
