@@ -28,7 +28,7 @@ On a Mac, you can run a Jupyter notebook from Terminal by typing `jupyter notebo
 - [A list of python pandas tutorials](https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html)
 - [scikit-learn tutorial](https://scikit-learn.org/stable/tutorial/basic/tutorial.html)
 - [How to Handle Imbalanced Classes in Machine Learning: Down-sample Majority Class](https://elitedatascience.com/imbalanced-classes)
-- scikit-learn models (many more in the [User Guide](https://scikit-learn.org/stable/user_guide.html#user-guide):
+- scikit-learn models (many more in the [User Guide](https://scikit-learn.org/stable/user_guide.html#user-guide)):
 	- [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html?highlight=logistic%20regression#sklearn.linear_model.LogisticRegression)
 	- [Gaussian Naive Bayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
 	- [Support Vector Machines](https://scikit-learn.org/stable/modules/svm.html#svm)
