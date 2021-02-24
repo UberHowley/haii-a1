@@ -16,7 +16,7 @@ In your terminal, navigate to your homework folder and run `jupyter notebook .` 
 Once Anaconda is installed on your machine, open an application called Anaconda-Navigator. On the main page, click the 'launch' button on the Jupyter Notebook tile. A notebook session should open up in your browser.
 
 # Jupyter Notebooks
-If you haven't used Jupyter Notebooks before, a good first step for you would be to read the [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) and take the User Interface Tour in the Jupyter notebook Help menu once you've opened your first Jupyter Notebook.
+If you haven't used Jupyter Notebooks before, then read the [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) and take the User Interface Tour in the Jupyter notebook Help menu once you've opened your first Jupyter Notebook.
 
 On a Mac, you can run a Jupyter notebook from Terminal by typing `jupyter notebook name_of_file_here.ipynb`. On Windows, you will do [something similar](https://pythonforundergradengineers.com/opening-a-jupyter-notebook-on-windows.html) but by running the 'Anaconda Prompt' that comes with the Anaconda distribution.
 
