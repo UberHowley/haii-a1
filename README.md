@@ -15,6 +15,8 @@ In your terminal, navigate to your homework folder and run `jupyter notebook .` 
 ## Step #3 (Graphical User Interface Option)
 Once Anaconda is installed on your machine, open an application called Anaconda-Navigator. On the main page, click the 'launch' button on the Jupyter Notebook tile. A notebook session should open up in your browser.
 
+Alternatively, if you have VS Code, it has built-in support for running Jupyter Notebooks. You'll be promptd to select a Python environment, and may wish to choose the anaconda python.
+
 # Jupyter Notebooks
 If you haven't used Jupyter Notebooks before, then read the [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook) and take the User Interface Tour in the Jupyter notebook Help menu once you've opened your first Jupyter Notebook.
 
