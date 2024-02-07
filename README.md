@@ -7,7 +7,7 @@ Anaconda will have all the libraries (scikit-learn, matplotlib, pandas, numpy) a
 This is written assuming use of Python 3.6 or greater.
 
 ## Step #2 Download homework files
-Download the `ipynb` notebook file in this repository as well as `data.zip`. Place both of these files into a well-named folder on your computer, and click on the zip file to unzip the data folder. Rename the `.ipynb` file to `[yourunix]_haii20a[assignmentnumber]`, e.g., `ikh1_haii20a1`. You will submit this file to Glow when completed.
+Download the `ipynb` notebook file in this repository as well as `data.zip`. Place both of these files into a well-named folder on your computer, and click on the zip file to unzip the data folder. Rename the `.ipynb` file to `[yourunix]_haii24a[assignmentnumber]`, e.g., `ikh1_haii24a1`. You will submit this file to Glow when completed.
 
 ## Step #3 (Terminal Option)
 In your terminal, navigate to your homework folder and run `jupyter notebook .` to start the notebook. A notebook session should open up in your browser.
