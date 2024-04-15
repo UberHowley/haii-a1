@@ -14,7 +14,7 @@ Download the `ipynb` notebook file in this repository as well as `data.zip`. Pla
 ## Step #3 Open the Jupyter Notebook
 
 ### Opening Notebooks: VS Code Option
-If you have VS Code, it has built-in support for running Jupyter Notebooks. You'll be promptd to select a Python environment, and should choose the anaconda python environment so you don't have to separately install scikit-learn, pandas, numpy, etc. individually.
+If you have VS Code, it has built-in support for running Jupyter Notebooks. You'll be prompted to select a Python environment, and should choose the anaconda python environment so you don't have to separately install scikit-learn, pandas, numpy, etc. individually.
 
 ### Opening Notebooks: Terminal Option
 In your terminal, navigate to your homework folder and run `jupyter notebook .` to start the notebook. A notebook session should open up in your browser.
